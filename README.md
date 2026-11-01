@@ -23,13 +23,8 @@ Exploring **LLMs, RAG, and Agentic AI** to build intelligent applications and au
 - **Database:** MongoDB, PostgreSQL, MySQL, Redis
 - **DevOps:** Docker, AWS, Linux, Git
 - **AI:** LLMs, RAG, Prompt Engineering, AI Agents
-
- ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-### 🤝 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/chirag-pratap-41b992219/) - [GitHub](https://github.com/YOUR_USERNAME)
+- 
+ ### 🤝 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/chirag-pratap-41b992219/) - [GitHub](https://github.com/YOUR_USERNAME)[LeetCode(https://leetcode.com/u/chiragpratap09/)
 
 *Building, learning, and engineering intelligent solutions.* 🚀
