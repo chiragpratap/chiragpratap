@@ -8,8 +8,6 @@ Currently working at **WebSeeder Technologies Pvt. Ltd.**, focusing on backend d
 
 Exploring **LLMs, RAG, and Agentic AI** to build intelligent applications and autonomous AI agents.
 
----
-
 ### 🚀 About Me
 
 - 💻 Full Stack & Backend Development
@@ -26,20 +24,12 @@ Exploring **LLMs, RAG, and Agentic AI** to build intelligent applications and au
 - **DevOps:** Docker, AWS, Linux, Git
 - **AI:** LLMs, RAG, Prompt Engineering, AI Agents
 
-### 💡 Featured Projects
-
-- **AI Interview Platform** – AI-powered interview and evaluation system.
-- **Task Management System** – MERN application with JWT and RBAC.
-- **Polling API** – RESTful API for poll creation and voting.
-- **AI Code Reviewer** – AI-driven code analysis and bug detection.
-
-### 📊 GitHub Stats
+ ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 🤝 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/chirag-pratap-41b992219/)
-- [GitHub](https://github.com/YOUR_USERNAME)
+- [LinkedIn](https://www.linkedin.com/in/chirag-pratap-41b992219/) - [GitHub](https://github.com/YOUR_USERNAME)
 
 *Building, learning, and engineering intelligent solutions.* 🚀
