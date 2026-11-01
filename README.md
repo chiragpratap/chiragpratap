@@ -1,61 +1,45 @@
-# 👋 Hi, I'm Chirag Pratap
+ # 👋 Hi, I'm Chirag Pratap
 
-### Software Developer | Full Stack Developer | Agentic AI Engineer
+### Software Developer | Backend Engineering | Agentic AI
 
-I'm a Software Developer passionate about building scalable, efficient, and intelligent applications. I enjoy solving real-world problems through software engineering, backend development, system design, and AI-powered solutions.
+Software Developer passionate about building scalable applications, robust backend systems, and AI-powered solutions.
 
-Currently, I'm working as a **Software Developer at WebSeeder Technologies Pvt. Ltd.**, where I'm gaining hands-on experience in building backend systems, developing REST APIs, database management, and improving application architecture.
+Currently working at **WebSeeder Technologies Pvt. Ltd.**, focusing on backend development, REST APIs, database management, and application architecture.
 
-I'm also exploring **Generative AI, LLMs, and Agentic AI** to build intelligent applications and autonomous AI agents.
+Exploring **LLMs, RAG, and Agentic AI** to build intelligent applications and autonomous AI agents.
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 💻 Software Developer focused on Full Stack and Backend Engineering.
-- 🤖 Exploring LLMs, Agentic AI, and AI-powered applications.
-- ⚙️ Interested in System Design, Distributed Systems, and Scalable Architecture.
-- 🌱 Continuously learning new technologies and improving problem-solving skills.
-- 🔍 Passionate about writing clean, maintainable, and efficient code.
-- 🎯 Goal: Build impactful software products and intelligent AI systems.
+- 💻 Full Stack & Backend Development
+- 🤖 Exploring Agentic AI and LLM Applications
+- ⚙️ Interested in System Design & Distributed Systems
+- 🌱 Continuously learning and building real-world projects
 
-## 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-**Languages:** C++, JavaScript, Python, Java, SQL
+- **Languages:** C++, JavaScript, Python, Java, SQL
+- **Frontend:** React.js, Next.js, Redux, Tailwind CSS
+- **Backend:** Node.js, Express.js, Spring Boot, REST APIs
+- **Database:** MongoDB, PostgreSQL, MySQL, Redis
+- **DevOps:** Docker, AWS, Linux, Git
+- **AI:** LLMs, RAG, Prompt Engineering, AI Agents
 
-**Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS
+### 💡 Featured Projects
 
-**Backend:** Node.js, Express.js, Spring Boot, REST APIs, JWT
+- **AI Interview Platform** – AI-powered interview and evaluation system.
+- **Task Management System** – MERN application with JWT and RBAC.
+- **Polling API** – RESTful API for poll creation and voting.
+- **AI Code Reviewer** – AI-driven code analysis and bug detection.
 
-**Databases:** MongoDB, PostgreSQL, MySQL, Redis
+### 📊 GitHub Stats
 
-**DevOps & Tools:** Docker, Git, GitHub, AWS, Postman, Linux
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-**AI & Emerging Technologies:** LLMs, Prompt Engineering, RAG, AI Agents, Agentic AI
+### 🤝 Connect With Me
 
-## 💡 Areas of Interest
+- [LinkedIn](https://www.linkedin.com/in/chirag-pratap-41b992219/)
+- [GitHub](https://github.com/YOUR_USERNAME)
 
-- Full Stack Development
-- Backend Engineering
-- System Design & Distributed Systems
-- Generative AI & LLM Applications
-- Agentic AI & Multi-Agent Systems
-- DevOps & Cloud Computing
-
-## 📌 Featured Projects
-
-- **AI Interview Platform:** An AI-powered platform for conducting and evaluating technical interviews.
-- **Task Management System:** Full-stack application with JWT authentication and role-based access control.
-- **Polling API:** RESTful API for creating polls, managing options, and handling votes.
-- **AI Code Reviewer:** Exploring intelligent code analysis, bug detection, complexity evaluation, and automated test generation.
-
-## 📊 GitHub Statistics
-
-<!-- Add GitHub statistics cards here -->
-
-## 🤝 Let's Connect
-
-- LinkedIn: [Connect with me]([text](https://www.linkedin.com/in/chirag-pratap-41b992219/))
-- GitHub: [Explore my repositories](https://github.com/)
-
-💬 Always open to learning, collaboration, and discussing software engineering and AI!
+*Building, learning, and engineering intelligent solutions.* 🚀
