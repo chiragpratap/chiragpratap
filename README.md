@@ -25,6 +25,6 @@ Exploring **LLMs, RAG, and Agentic AI** to build intelligent applications and au
 - **AI:** LLMs, RAG, Prompt Engineering, AI Agents
 - 
  ### 🤝 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/chirag-pratap-41b992219/) - [GitHub](https://github.com/YOUR_USERNAME)[LeetCode(https://leetcode.com/u/chiragpratap09/)
+[LinkedIn](https://www.linkedin.com/in/chirag-pratap-41b992219/)-[GitHub](https://github.com/YOUR_USERNAME) [LeetCode Profile](https://leetcode.com/u/chiragpratap09/)  
 
 *Building, learning, and engineering intelligent solutions.* 🚀
